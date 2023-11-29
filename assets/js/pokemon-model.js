@@ -9,11 +9,7 @@ class Pokemon {
   weight;
   abilities = [];
   abilitie;
+  gender;
+  eggGroups;
+  eggCyle;
 }
-
-//  Name
-// Type               Number
-// species
-// height
-// weight
-// abilities
